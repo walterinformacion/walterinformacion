@@ -1,4 +1,4 @@
-
+<img src="https://www.example.com/images/dinosaur.jpg">
 - 👋 Hi, I’m @walterinformacion
 - 👀 I’m interested in solve problems  whith any programming language
 - 🌱 I’m currently learning ...
